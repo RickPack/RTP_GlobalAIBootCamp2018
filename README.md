@@ -1,6 +1,10 @@
 # RTP_GlobalAIBootCamp2018
 Coordination led by Jamie Dixon, assisted by Rick Pack
+
 Hosted by AIS - Steven Suing and George Gergues
+
+Microsoft Robot Lab facilitated by d
+
 A TriNUG Meetup [https://www.meetup.com/TRINUG/events/256468004/]
 
 Full Talks
