@@ -1,11 +1,15 @@
 # RTP_GlobalAIBootCamp2018
 Media, code, and presentations from the RTP Global AI Bootcamp 2018
 
+Full Talks
+
 Dr. Zeydy Ortiz / DataCrunchLab - "Best practices in building machine learning models in Azure ML"
 
 Kevin Feasel / Catallaxy Services - "Cleaning is Half the Battle: Launching a Data Science Project" [https://www.catallaxyservices.com/presentations/datascience]
 
+
 Lightning Talks
+
 Alice Broadhead - "Stacking Audience Models"
 
 Greg Frazier - "Stop editing cells! Build a User-Interface for your Jupyter Notebook [https://github.com/gnfrazier/jupyter-day-presentation]"
