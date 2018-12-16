@@ -1,9 +1,9 @@
 # RTP_GlobalAIBootCamp2018
 Coordination led by Jamie Dixon, assisted by Rick Pack
 
-Hosted by AIS - Steven Suing and George Gergues
+Hosted by Applied Information Sciences (AIS) - Steven Suing and George Gergues
 
-Microsoft Robot Lab facilitated by d
+Microsoft Robot Lab facilitated by Jon Anderson of AIS
 
 A TriNUG Meetup [https://www.meetup.com/TRINUG/events/256468004/]
 
@@ -25,7 +25,3 @@ Conrad D'Cruz - "Python Adventures" [https://drive.google.com/open?id=1WaY5iuACl
 Yoshiyuki Igarashi - "Intro to Auto Speech Recognition — How ML learns Speech-to-Text [https://github.com/RickPack/RTP_GlobalAIBootCamp2018/blob/master/How%20ML%20Learns%20Speech-to-Text%20by%20Yoshi.pptx]
 
 Rick Pack - "(Toward) ML Classification of Amateur Athletes and Advertisements"
-
-Pictures and Video (link) [https://drive.google.com/drive/folders/1NnhqZ1j-K9dlXyKxao47O_V7v0Nu5G8W]
-
-
