@@ -16,4 +16,6 @@ Yoshiyuki Igarashi - "Intro to Auto Speech Recognition — How ML learns Speech-
 
 Rick Pack - "ML Classification of Amateur Athletes and Advertisements"
 
+Pictures and Video (link) [https://drive.google.com/drive/folders/1NnhqZ1j-K9dlXyKxao47O_V7v0Nu5G8W]
+
 
