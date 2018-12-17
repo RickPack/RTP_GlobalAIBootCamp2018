@@ -1,5 +1,6 @@
 # RTP_GlobalAIBootCamp2018
 LinkedIn article: https://www.linkedin.com/pulse/summary-microsoft-artificial-intelligence-bootcamp-nc-rick/
+
 Coordination led by Jamie Dixon, assisted by Rick Pack
 
 Hosted by Applied Information Sciences (AIS) - Steven Suing and George Gergues
