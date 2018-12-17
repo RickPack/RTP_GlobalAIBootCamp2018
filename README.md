@@ -21,7 +21,7 @@ Alice Broadhead - "Stacking Audience Models"
 
 Greg Frazier - "Stop editing cells! Build a User-Interface for your Jupyter Notebook [https://github.com/gnfrazier/jupyter-day-presentation]"
 
-Conrad D'Cruz - "Python Adventures" [https://drive.google.com/open?id=1WaY5iuAClGfDIRYuWyAYVTDiaTlNwvdQ]
+Conrad D'Cruz - "Python Adventures" [https://github.com/RickPack/RTP_GlobalAIBootCamp2018/blob/master/PythonAviationWeather_ConradD_15Dec2018.pdf]
 
 Yoshiyuki Igarashi - "Intro to Auto Speech Recognition — How ML learns Speech-to-Text [https://www.slideshare.net/YoshiyukiIgarashi/intro-to-auto-speech-recognition-how-ml-learns-speechtotext]
 
